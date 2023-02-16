@@ -20,4 +20,4 @@ Modify the rule to [details|shell_exec] test ([details])
 When deleting an attachment, execute the command through ids[]=calc%26&ids[]=x（X is the attachment id）
 ![图片](https://user-images.githubusercontent.com/125523284/219252248-47470c99-0252-490f-8150-d24ebf118dd1.png)
 ![图片](https://user-images.githubusercontent.com/125523284/219254771-52be102c-b06d-47a2-aaf9-6f96a796f5de.png)
-![图片](https://user-images.githubusercontent.com/125523284/219254783-8b08d946-3527-45b1-b80c-f227d22911f3.png)
+![图片](https://user-images.githubusercontent.com/125523284/219255213-494de84a-ca92-4b26-9ed3-8285d8942c62.png)
