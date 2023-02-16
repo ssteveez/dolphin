@@ -1,4 +1,5 @@
 # dolphin
+Remote Command Execution
 from http://www.dolphinphp.com/getDolphin.html Download the latest version of DolphinPHP V1.5.1 source code From the code audit,We can see that the code in /application/common.php has calls whose parameters can be controlled_ user_ Func method
 ![图片](https://user-images.githubusercontent.com/125523284/219248886-94cbaa8e-99f5-4729-baa9-3dd8d0b05a4d.png)
 Where, the controllable parameters are param [1] and log [$param [0]]
