@@ -1,5 +1,5 @@
 # dolphin
-Remote Command Execution
+A vulnerability classified as serious was found in DolphinPHP V1.5.1. Operation on parameter ids causes remote command execution
 
 
 from http://www.dolphinphp.com/getDolphin.html Download the latest version of DolphinPHP V1.5.1 source code From the code audit,We can see that the code in /application/common.php has calls whose parameters can be controlled_ user_ Func method
