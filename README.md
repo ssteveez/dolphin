@@ -18,7 +18,7 @@ Then we find the list of disable function
 Then through the shell_exec() method attempts to execute the command
 Set the log rules of the "Delete Attachment" function in the "Behavior Management" option
 ![图片](https://user-images.githubusercontent.com/125523284/219251224-90042a0a-3405-4f42-b3a2-442e2fbe6c91.png)
-Modify the rule to [details|shell_exec] test ([details])
+Modify the rule to [details|shell_exec] test ([details]) and Modify the module to "System"
 ![图片](https://user-images.githubusercontent.com/125523284/219251679-3dbdda5a-f1c9-4530-b06a-2b746e0017d5.png)
 When deleting an attachment, execute the command through ids[]=calc%26&ids[]=x（X is the attachment id）
 ![图片](https://user-images.githubusercontent.com/125523284/219252248-47470c99-0252-490f-8150-d24ebf118dd1.png)
